@@ -19,10 +19,10 @@ Local Setup
 To follow this project, please install the following locally:
 
 * JupyerLab
-  Python 3.8+
-  Python packages
-  pandas
-  yfinance
+  Python 3.8+ ,
+  Python packages ,
+  pandas, 
+  yfinance, 
   scikit-learn
 
 ## Data
